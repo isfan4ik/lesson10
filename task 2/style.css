@@ -1,0 +1,136 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.div{
+   height: 56px;
+   width: 1366px;
+}
+
+.img{
+   margin-left: 99px;
+   margin-top: 8px;
+}
+
+.ul{
+   margin-left: 712px;
+   margin-top: -35px;
+}
+
+.a{
+   margin-left: 50px;
+   color: #000;
+}
+
+.btn{
+   width: 58px;
+   height: 24px;
+   margin-left: 1100px;
+   margin-top: -23px;
+}
+
+.btn1{
+   width: 122px;
+   height: 24px;
+   margin-left: 1200px;
+   margin-top: -23px;
+}
+
+.butt{
+   height: 24px;
+   width: 55px;
+   margin-left: 1350px;
+   margin-top: -23px;
+}
+
+.g{
+   margin-top: 120px;
+   margin-left: 700px;
+}
+
+.i{
+   margin-left: 600px;
+   margin-top: 20px;
+}
+
+.p{
+   margin-left: 650px;
+   color: #444150;   
+}
+
+.f {
+   position: fixed;
+   margin-left: 850px;
+   margin-top: -20px;
+   color: #01BAB3;   
+}
+
+.sif{
+   margin-left: 600px;
+   margin-top: 40px;
+}
+
+.val{
+   position: absolute;
+   top: 290;
+}
+
+.slip{
+   margin-left: 600px;
+   margin-top: 35px;
+}
+
+.avl{
+   position: absolute;
+   top: 340;
+}
+
+.save{
+   margin-left: 600px;
+   margin-top: 50px;
+}
+
+.sac{
+   position: absolute;
+   top: 410;
+}
+
+.fal{
+   margin-left: 200px;
+   margin-top: -20px;
+}
+
+.lac{
+   position: absolute;
+   top: 410;
+}
+
+.wr{
+   position: absolute;
+   right: 755;
+   top: 500;
+}
+
+.chas{
+   position: absolute;
+   top: -20;
+}
+
+.fr{
+   position: absolute;
+   top: 40;
+}
+
+.futt{
+   height: 48px;
+   width: 416px;
+   left: 475px;
+   top: 841px;
+   border-radius: 4px;
+   margin-top: 175px;
+   margin-left: -80px;
+   background-color:  #01BAB3;
+   color: #FFFFFF; 
+}

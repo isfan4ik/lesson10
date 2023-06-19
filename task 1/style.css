@@ -1,0 +1,147 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.div{
+   height: 56px;
+   width: 1366px;
+}
+
+.img{
+   margin-left: 99px;
+   margin-top: 8px;
+}
+
+.ul{
+   margin-left: 712px;
+   margin-top: -35px;
+}
+
+.a{
+   margin-left: 50px;
+   color: #000;
+}
+
+.btn{
+   width: 58px;
+   height: 24px;
+   margin-left: 1100px;
+   margin-top: -23px;
+}
+
+.btn1{
+   width: 122px;
+   height: 24px;
+   margin-left: 1200px;
+   margin-top: -23px;
+}
+
+.butt{
+   height: 24px;
+   width: 55px;
+   margin-left: 1350px;
+   margin-top: -23px;
+}
+
+.g{
+   margin-top: 120px;
+   margin-left: 700px;
+}
+
+.i{
+   margin-left: 600px;
+   margin-top: 20px;
+}
+
+.p{
+   margin-left: 650px;
+   color: #444150;   
+}
+
+.f {
+   position: fixed;
+   margin-left: 850px;
+   margin-top: -20px;
+   color: #01BAB3;   
+}
+
+.fox{
+   margin-left: 610px;
+   margin-top: 40px;
+}
+
+.r {
+   margin-top: 40px;
+   margin-left: 40px;
+}
+
+.dil{
+   margin-left: 630px;
+   margin-top: 20px;
+}
+
+.firstname{
+   position: absolute;
+   top: 290;
+}
+
+.lastname{
+   position: absolute;
+   top: 290;
+   left: 850;
+}
+
+.last{
+   position: absolute;
+   left: 850;
+}
+
+.e{
+   position: absolute;
+   top: 350;
+}
+
+.u{
+   position: absolute;
+   left: 800;
+}
+
+.fu{
+   position: absolute;
+   left: 785;
+}
+
+.sel{
+   position: absolute;
+   left: 650;
+   top: 490;
+}
+
+.for{
+   position: absolute;
+   top: -20;
+}
+
+.sid{
+   position: absolute;
+   left: 600;
+   top: 550;
+}
+
+.das{
+   position: absolute;
+   top:-20;
+}
+
+.but{
+   height: 48px;
+   width: 416px;
+   left: 475px;
+   top: 841px;
+   border-radius: 4px;
+   margin-top: 150px;
+   margin-left: 550px;
+   background-color:  #01BAB3;   
+}
